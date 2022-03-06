@@ -39,7 +39,6 @@ function App() {
     setTodos(newTodos)
   }
 
-
   return(
     <>
       <ToDoList todos={todos} toggleBox={toggleBox} />
