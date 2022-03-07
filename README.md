@@ -1,1 +1,1 @@
-A simple todo list made with react
+A simple to do list made with react
